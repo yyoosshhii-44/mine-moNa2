@@ -1,8 +1,0 @@
-file_format: "1"
-id: moNa_pro
-name: moNa_pro
-type: shield
-url: https://github.com/sayu-hub/zmk-config-moNapro
-requires: [seeeduino_xiao_ble]
-features:
-  - keys
