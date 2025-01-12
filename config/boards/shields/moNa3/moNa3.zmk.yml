@@ -1,0 +1,8 @@
+file_format: "1"
+id: moNa3
+name: moNa3
+type: shield
+url: https://github.com/sayu-hub/zmk-config-moNa3
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
