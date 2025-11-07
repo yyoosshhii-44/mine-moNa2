@@ -34,7 +34,7 @@
             key-positions = <11 12>;
         };
 
-        MB3 {
+        MA3 {
             bindings = <&mkp MB3>;
             key-positions = <11 14>;
         };
